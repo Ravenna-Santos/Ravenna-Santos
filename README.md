@@ -17,7 +17,18 @@
   <img hspace="8px" align="center" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img hspace="8px" align="center" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img hspace="8px" align="center" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  
-  
+</div>
+
+<div>
+  <h3>Contact me 👋🏻📱</h3>
+  <div>
+    <a href="https://wa.me/+5575988026273" target="_blank"><img  height="30px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/ravenna-santos/" target="_blank"><img  height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="mailto:ravennasantos2016@gmail.com"><img  height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </div>
+  <div>
+    <a href="https://replit.com/@RavennaSantos" target="_blank"><img  height="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg"/>
+    <a href="https://www.beecrowd.com.br/judge/pt/profile/619907" target="_blank"><img height="30"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
+  </div>
 </div>
 
