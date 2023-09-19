@@ -15,8 +15,9 @@
   <img hspace="8px" align="center" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img hspace="8px" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img hspace="8px" align="center" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img hspace="8px" align="center" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img hspace="8px" align="center" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img hspace="8px" align="center" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img hspace="8px" align="center" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 <div>
@@ -30,7 +31,11 @@
     <h3>See what I'm doing on other platforms</h3>
     <a href="https://replit.com/@RavennaSantos" target="_blank"><img  height="30px" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
     <a href="https://www.salesforce.com/trailblazer/ravennasantos"><img  height="30px" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
+    <a href="https://www.dio.me/users/ravennasantos2016" target="_blank"><img height="30px"  src="https://guiadeti.com.br/wp-content/uploads/2022/01/guia-cursos-dio.png">
+    <a href="https://www.devmedia.com.br/perfil/ravenna-jesus-dos-santos" target="_blank"><img height="30px"  src="https://guiadeti.com.br/wp-content/uploads/2022/03/guia-cursos-devmedia.png">
     <a href="https://www.beecrowd.com.br/judge/pt/profile/619907" target="_blank"><img height="40px"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
+
+      
   </div>
 </div>
 
