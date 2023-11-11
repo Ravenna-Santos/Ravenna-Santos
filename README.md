@@ -35,7 +35,7 @@
     <a href="https://www.dio.me/users/ravennasantos2016" target="_blank"><img height="30px"  src="https://guiadeti.com.br/wp-content/uploads/2022/01/guia-cursos-dio.png">
     <a href="https://www.devmedia.com.br/perfil/ravenna-jesus-dos-santos" target="_blank"><img height="30px"  src="https://guiadeti.com.br/wp-content/uploads/2022/03/guia-cursos-devmedia.png">
     <a href="https://www.beecrowd.com.br/judge/pt/profile/619907" target="_blank"><img height="40px"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
-        <a href="https://www.thehuxley.com/profile/46530?page=1" target="_blank"><img height="40px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy52e6U4DqtJEh4M8CsVwP8n1P6n1bN1OV0A&usqp=CAU">
+        <a href="https://www.thehuxley.com/profile/46530?page=1" target="_blank"><img height="35px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy52e6U4DqtJEh4M8CsVwP8n1P6n1bN1OV0A&usqp=CAU">
       
   </div>
 </div>
